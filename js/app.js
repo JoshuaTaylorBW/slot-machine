@@ -31,7 +31,7 @@ function changeColor(changing){
       changing.style.backgroundColor = "green";
     break;
     case 4:
-      changing.style.backgroundColor = "blue";
+      changing.style.backgroundColor = "white";
     break;
     case 5:
       changing.style.backgroundColor = "yellow";
